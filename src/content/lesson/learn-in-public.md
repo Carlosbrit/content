@@ -39,7 +39,7 @@ When you learn in public, you make social media, your notebook and discussion fo
 - Reach out to developers you admire: If you liked a video, write something to the author. If you like a library, make a Pull Request fixing a misspelling, or enhancing the documentation or coding a new feature!
 - Join events and conferences: Meet with other developers and opportunities will start coming in.
 
-## Reasons you have to procrastinate about this:
+## Reasons you procrastinate about this:
 
 ### I don't have anything to say
 
@@ -53,7 +53,7 @@ Nobody is! I've been coding for 20 years and I still think I'm no expert, by sho
 
 You don't do it all, you can just pick one or two things you might enjoy doing. Even if you are learning privately you have to take notes and finish coding projects and challenges, why not taking some extra time to publish them? I think it's 100% worth your time.
 
-I hope I made my case!!
+I hope I made my case!
 
 ## Keep it up!
 
